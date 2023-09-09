@@ -1,0 +1,10 @@
+/.env
+/.flaskenv
+/app.py
+/Config.py
+/Models.py
+/Resources
+/Route.py
+/Schemas
+/venv
+/__pycache__
